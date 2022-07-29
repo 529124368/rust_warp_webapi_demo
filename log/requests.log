@@ -1,0 +1,9 @@
+2022-07-28T10:20:14.042047400+09:00 - starting HTTP server at http://localhost:8080
+2022-07-28T10:20:14.045120100+09:00 - Starting 4 workers
+2022-07-28T10:20:14.045289800+09:00 - Actix runtime found; starting in Actix runtime
+2022-07-28T10:20:25.181700500+09:00 - SIGINT received; starting forced shutdown
+2022-07-28T10:20:25.181887200+09:00 - Shutting down idle worker
+2022-07-28T10:20:25.181919+09:00 - Shutting down idle worker
+2022-07-28T10:20:25.182013600+09:00 - Shutting down idle worker
+2022-07-28T10:20:25.182082800+09:00 - Accept thread stopped
+2022-07-28T10:20:25.182126900+09:00 - Shutting down idle worker

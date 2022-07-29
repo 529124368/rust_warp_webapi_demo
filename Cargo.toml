@@ -1,0 +1,13 @@
+[package]
+edition = "2021"
+name = "webapi"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4.17"
+log4rs = "1.1.1"
+serde_json = "1.0.82"
+tokio = {version = "1", features = ["full"]}
+warp = "*"
